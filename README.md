@@ -65,8 +65,7 @@ AI-Powered-Smart-Homes/
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/your-username/AI-Powered-Smart-Homes.git
-
+https://github.com/Navya032006/AI-Powered-Smart-Homes.git
 cd AI-Powered-Smart-Homes
 ```
 
@@ -79,9 +78,8 @@ pip install -r requirements.txt
 
 ## ▶️ How to Run
 
-### Run Jupyter Notebook
-
-### Run Dashboard
+#### Run Jupyter Notebook
+#### Run Dashboard
 
 ---
 
