@@ -1,13 +1,13 @@
 # 🏠 AI-Powered Smart Homes
 
-An intelligent system that uses Machine Learning to analyze and optimize energy consumption in smart homes. This project predicts appliance usage, detects anomalies, and provides insights through an interactive dashboard.
+A Machine Learning-based system that analyzes smart home energy consumption and provides insights through data analysis and an interactive dashboard.
 
 ---
 
 ## 🏆 Project Overview
 
 - 🎯 Problem: Inefficient energy usage in homes leads to higher electricity bills and wastage.
-- 💡 Solution: A smart AI-based system that predicts consumption, detects anomalies, and provides insights.
+- 💡 Solution: A data-driven system that predicts energy consumption and provides insights.
 - ⚙️ Approach: Machine Learning + Data Analysis + Interactive Dashboard
 
 ---
@@ -15,11 +15,10 @@ An intelligent system that uses Machine Learning to analyze and optimize energy 
 ## ⚡ Key Features
 
 - ✅ Energy Consumption Prediction  
-- ✅ Anomaly Detection in Usage  
 - ✅ Data Analysis of Smart Home Patterns  
+- ✅ Threshold-based Usage Monitoring  
 - ✅ Interactive Dashboard (Gradio UI)  
 - ✅ Real-world Dataset Integration  
-- ✅ Model-based Insights & Threshold Alerts  
 
 ---
 
@@ -93,40 +92,38 @@ pip install -r requirements.txt
 
 ## 🤖 How It Works
 
-1. Data is collected from smart home usage.
-2. Data is preprocessed and cleaned.
-3. Machine Learning model (LightGBM) is trained.
-4. Model predicts energy consumption.
-5. Thresholds detect abnormal usage patterns.
-6. Results are displayed via an interactive dashboard.
+1. Dataset is loaded and preprocessed.  
+2. Features are prepared for training.  
+3. LightGBM model predicts energy consumption.  
+4. Threshold values are used to flag unusual usage.  
+5. Results are displayed in a Gradio dashboard.  
 
 ---
 
 ## 🎯 Use Cases
 
-- Smart home energy optimization  
+- Smart home energy analysis  
 - Reducing electricity bills  
-- Detecting faulty appliances  
-- Sustainable energy usage  
+- Identifying unusual energy usage  
+- Supporting sustainable energy practices  
 
 ---
 
 ## 🌟 Innovation & Impact
 
-- Data-driven energy management  
-- Automated anomaly detection  
-- Scalable for smart cities & IoT systems  
-- Promotes energy efficiency and sustainability  
+- Data-driven energy insights  
+- Simple threshold-based monitoring  
+- Scalable for smart home datasets  
+- Promotes efficient energy usage  
 
 ---
 
 ## 🚀 Future Enhancements
 
 - Real-time IoT integration  
-- AI-based appliance-level predictions  
+- Advanced ML/DL models  
 - Mobile application  
-- Advanced deep learning models  
-- Smart recommendations system  
+- Smart recommendation system  
 
 ---
 
